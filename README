@@ -1,0 +1,18 @@
+# Projeto Elevador
+
+Criação de estrutura de entregas de pacote em um prédio.
+## Confirmações
+
+1. Eu tenho pacotes e preciso que eles sejam entregues dentro de um prédio.
+2. O pacote deve conter andar de origem e andar de destino.
+3. O prédio deve conter 20 andares.
+4. O prédio contem um elevador.
+5. O elevador só comporta 1 pacote
+6. É necessário 3 unidades de tempo para carregar e descarregar o pacote no elevador.
+7. É necessário 5 unidades de tempo para o elevador deslocar de um andar para o outro
+8. Enquanto estiver ocioso o elevador permanecera no 1º andar
+9. Os pacotes devem respeitar a ordem de solicitação de entrega
+
+## Objetivos:
+1. Calcular o tempo gasto de deslocamento do elevador.
+2. Desconsiderando a Confirmação 9, otimizar o tempo solicitado no Objetivo 1
